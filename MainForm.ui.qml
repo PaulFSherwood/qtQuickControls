@@ -20,6 +20,8 @@ Rectangle {
         anchors.horizontalCenter: parent.horizontalCenter
         anchors.topMargin: 20
         Rectangle {
+            x: 20
+            y: 25
             anchors.fill: parent
             anchors.margins: -10
             color: "transparent"
